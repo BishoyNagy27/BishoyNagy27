@@ -1,14 +1,14 @@
 
-### Hey,[Bishoy Nagy!](https://www.facebook.com/bishoy.nagy.27/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-<img src = 'https://github.com/BishoyNagy27/BishoyNagy27/blob/main/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-BishoyNagy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/bishoy-nagy-08539b1b6/)
-
+<p align="center">
+<a href="https://github.com/BishoyNagy27"><img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=00c02b&center=true&vCenter=true&width=435&lines=Bishoy+Nagy;" alt="Bishoy Nagy" /></a>
+</p>
 <p align="center">
 <a href="https://github.com/BishoyNagy27"><img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=00c02b&center=true&vCenter=true&width=435&lines=Penetration+tester;" alt="Bishoy Nagy" /></a>
 </p>
+<img src = 'https://github.com/BishoyNagy27/BishoyNagy27/blob/main/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-BishoyNagy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/bishoy-nagy-08539b1b6/)
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
 
