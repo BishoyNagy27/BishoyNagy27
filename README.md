@@ -6,6 +6,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-BishoyNagy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/bishoy-nagy-08539b1b6/)
 
+<p align="center">
+<a href="https://github.com/BishoyNagy27"><img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=00c02b&center=true&vCenter=true&width=435&lines=Penetration+tester;" alt="Bishoy Nagy" /></a>
+</p>
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
 
