@@ -4,7 +4,7 @@
 <a href="https://github.com/BishoyNagy27"><img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=00c02b&center=true&vCenter=true&width=435&lines=Bishoy+Nagy;" alt="Bishoy Nagy" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/BishoyNagy27"><img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=00c02b&center=true&vCenter=true&width=435&lines=Back+End+Developer;" alt="Bishoy Nagy" /></a>
+<a href="https://github.com/BishoyNagy27"><img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=00c02b&center=true&vCenter=true&width=435&lines=BackEnd+Developer;" alt="Bishoy Nagy" /></a>
 </p>
 <img src = 'https://github.com/BishoyNagy27/BishoyNagy27/blob/main/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
