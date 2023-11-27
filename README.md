@@ -18,7 +18,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 * MySQL
 * Laravel
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+
 
 ## Programming Languages
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
