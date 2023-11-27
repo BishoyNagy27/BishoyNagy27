@@ -48,11 +48,6 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
     }
     }
  
-## Current Works
- * I am currently focused on developing a **Network scripting tool** that will enhance the security and efficiency of network operations. This tool will automate various networking tasks, such as configuration management,
-**Network monitoring**, and **Troubleshooting**, allowing for streamlined and more reliable network operations.
-
- * Additionally, I am working on a **Web vulnerability scanning tool**, which aims to identify and mitigate security vulnerabilities in web applications. This tool will perform comprehensive scans of web applications, including testing for common vulnerabilities like cross-site scripting (XSS), SQL injection, and insecure direct object references. By leveraging this tool, organizations can proactively identify and address potential security weaknesses in their web applications, ensuring the protection of sensitive data and safeguarding against malicious attacks.
 
 
 
