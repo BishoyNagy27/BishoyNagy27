@@ -25,27 +25,28 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
  
  ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Bishoy Nagy'
-	
-	hobbies = [
-				'Mixed Martial Arts (MMA)',
-				'Boxing',
-				'Taekwondo'
-				'I\'m a big fan of action movies'
-			]
-	
-	def getCity():
-		return Egypt_Cairo()
-	
-	def Ambitions():
-		learnBugBountyHunting()
-		ToFinishReadingSomeBooks()
-		FinishMyNovel()
-		# ;)
-	
- ```
+
+    class WhoAmI {
+    public $user = 'Bishoy Nagy';
+    
+    public $hobbies = [
+        'Mixed Martial Arts (MMA)',
+        'Boxing',
+        'Taekwondo',
+        "I'm a big fan of action movies"
+    ];
+
+    public function getCity() {
+        return 'Egypt, Cairo';
+    }
+
+    public function ambitions() {
+        $this->findOrReportBugInBugBountyField();
+        $this->finishReadingSomeBooks();
+        $this->completeFirstProject();
+        // ;)
+    }
+    }
  
 ## Current Works
  * I am currently focused on developing a **Network scripting tool** that will enhance the security and efficiency of network operations. This tool will automate various networking tasks, such as configuration management,
